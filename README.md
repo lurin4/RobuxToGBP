@@ -2,7 +2,7 @@
 
 A Chrome extension that converts Robux to GBP.
 
-How it looks like:
+How it looks:
 
 <img width="153" height="40" alt="image" src="https://github.com/user-attachments/assets/59a67cb0-fcd3-4be5-a0bf-b9a7d54b9634" />
 
